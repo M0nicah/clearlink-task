@@ -7,7 +7,7 @@
 
 /* HERO SECTION */
 .main-container {
-  /* overflow: hidden; */
+  background: url(./images/Background\ pattern.png);
 }
 
 .main-container,
